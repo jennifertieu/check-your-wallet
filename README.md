@@ -1,2 +1,2 @@
-# nft-art-gallery
+# Nifty Art Gallery
 NFT Art Gallery
